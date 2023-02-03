@@ -6,4 +6,4 @@ CSS3
 Java Script
 Multimedia content
 JIMP-Image editing software
-Those intrested in collaborating in these technologies you are welcome
+Those interested in collaborating in these technologies you are welcome
